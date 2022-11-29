@@ -7,3 +7,4 @@ local typing.
 local writing
 local typing.
 typing in shanks/task1
+typing in shanks/task2
